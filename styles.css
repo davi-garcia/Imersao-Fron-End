@@ -21,6 +21,12 @@ h1 {
     padding: 16px 0 0 16px;
 }
 
+.logo {
+    background: #121212;
+    display: flex;
+    border-radius: 8px;
+}
+
 .logo img {
     width: 80px;
 }
